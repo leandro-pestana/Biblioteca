@@ -40,7 +40,7 @@ Artigos e tutoriais sobre o desenvolvimento de Apps.
 - [Swift]()
 - [Cocoa]()
 
-[Work](#work)
+### Work
 Matérias motivacionais ou não sobre carreiras de Designer, Front-end e desenvolvedor.
 - [Designer]()
 - [Front-end]()
