@@ -2,7 +2,7 @@
 
 Uma tentativa de organizar e guardar uma enorme coleção de referências e artigos que me ajudam de alguma forma e que eu considerado valer a pena manter.
 
-## Indice
+## Índice
 1. [Linha de Comando](#linha-de-comando)
 2. [Design](#design)
 4. [Front End Development](#front-end-development)
