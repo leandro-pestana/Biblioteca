@@ -1,2 +1,48 @@
 # Biblioteca
-Uma enorme coleção de todos os vários artigos que eu considerado valer a pena manter.
+
+Uma tentativa de organizar e guardar uma enorme coleção de referências e artigos que me ajudam de alguma forma e que eu considerado valer a pena manter.
+
+## Indice
+1. [Linha de Comando](#linha-de-comando)
+2. [Design](#design)
+4. [Front End Development](#front-end-development)
+5. [iOS](#ios)
+9. [Work](#work)
+
+### Linha de Comando
+- [Git](command-line/git.md)
+- [Terminal](command-line/terminal.md)
+
+### Design
+Inspiração, ferramentas, tutoriais, links e artigos que me auxiliam tanto na produção quanto na inspiração.
+O trabalho de criação digital é uma tarefa difícil, deve ter uma base muito bem fundamentada com muitos estudos e testes que possam validar cada detalhe do projeto, seja a cor de um elemento ou uma nova funcionalidade.
+- [Livros]():
+- [Inspiração]():
+- [Fotos]():
+- [Ilustração]():
+- [UI]():
+- [UX]():
+- [Sketch]():
+- [Arquivos](): Templates, icones e arquivos em geral.
+
+### Front End Development
+Trabalho na maior parte do como web desiger e o front-end ocupa boa parte do meu tempo. A codificação pra mim é como um jogo de vídeo game onde eu posso relaxar, esquecer do mundo lá fóra e ainda encarar alguns desafios. O que eu acho mais difícil aqui é se manter atualizado por isso sempre que acho aquele tutorial que fala a minha lingua eu guardo aqui. 
+- [CSS]()
+- [SASS]()
+- [HTML]()
+- [Javascript]()
+- [Jquery]()
+- [Swift]()
+- [Performance]()
+
+### IOS
+Artigos e tutoriais sobre o desenvolvimento de Apps.
+- [Swift]()
+- [Cocoa]()
+
+[Work](#work)
+Matérias motivacionais ou não sobre carreiras de Designer, Front-end e desenvolvedor.
+- [Designer]()
+- [Front-end]()
+- [Desenvolvedor]()
+
