@@ -26,7 +26,7 @@ O trabalho de criação digital é uma tarefa difícil, deve ter uma base muito 
 - [Arquivos](): Templates, icones e arquivos em geral.
 
 ### Front End Development
-Trabalho na maior parte do como web desiger e o front-end ocupa boa parte do meu tempo. A codificação pra mim é como um jogo de vídeo game onde eu posso relaxar, esquecer do mundo lá fóra e ainda encarar alguns desafios. O que eu acho mais difícil aqui é se manter atualizado por isso sempre que acho aquele tutorial que fala a minha lingua eu guardo aqui. 
+Trabalho na maior parte do tempo como web designer e o front-end ocupa boa parte do meu tempo. A codificação pra mim é como um jogo de vídeo game onde eu posso relaxar, esquecer do mundo lá fóra e ainda encarar alguns desafios. O que eu acho mais difícil aqui é se manter atualizado por isso sempre que acho aquele tutorial que fala a minha lingua eu guardo aqui. 
 - [CSS]()
 - [SASS]()
 - [HTML]()
