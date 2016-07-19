@@ -41,7 +41,7 @@ Artigos e tutoriais sobre o desenvolvimento de Apps.
 - [Cocoa]()
 
 ### Work
-Matérias motivacionais ou não sobre carreiras de Designer, Front-end e desenvolvedor.
+Matérias motivacionais ou não sobre empreendedorismo e carreira.
 - [Designer]()
 - [Front-end]()
 - [Desenvolvedor]()
