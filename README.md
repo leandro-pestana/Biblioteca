@@ -7,7 +7,8 @@ Uma tentativa de organizar e guardar uma enorme coleção de referências e arti
 2. [Design](#design)
 4. [Front End Development](#front-end-development)
 5. [iOS](#ios)
-9. [Work](#work)
+6. [Metodologias](#metodologias)
+7. [Work](#work)
 
 ### Linha de Comando
 - [Git](command-line/git.md)
@@ -39,6 +40,9 @@ Trabalho na maior parte do tempo como web designer e o front-end ocupa boa parte
 Artigos e tutoriais sobre o desenvolvimento de Apps.
 - [Swift]()
 - [Cocoa]()
+
+### Metodologia
+- [Atomic Design](metodologia/atomic-design.md): Arquitetura CSS
 
 ### Work
 Matérias motivacionais ou não sobre empreendedorismo e carreira.
