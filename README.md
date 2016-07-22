@@ -42,7 +42,7 @@ Artigos e tutoriais sobre o desenvolvimento de Apps.
 - [Cocoa]()
 
 ### Metodologia
-- [Atomic Design](metodologia/atomic-design.md): Arquitetura CSS
+- [Atomic Design](metodologia/atomic-design): Arquitetura CSS
 
 ### Work
 Matérias motivacionais ou não sobre empreendedorismo e carreira.
