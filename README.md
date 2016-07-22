@@ -7,7 +7,7 @@ Uma tentativa de organizar e guardar uma enorme coleção de referências e arti
 2. [Design](#design)
 4. [Front End Development](#front-end-development)
 5. [iOS](#ios)
-6. [Metodologias](#metodologias)
+6. [Metodologia](#metodologia)
 7. [Work](#work)
 
 ### Linha de Comando
